@@ -32,7 +32,7 @@ Copy/paste the output of /getfull here
 **Playfield info:**
 
 ```
-Copy/paste the output of Shift+F6 here
+Copy/paste the output of Shift+F9 here
 ```
 ----
 
