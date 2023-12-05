@@ -23,7 +23,17 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Additional context**
-- Playfield: 
-- Character Name:
-- Anything Else:
+**Character info:**
+
+```
+Copy/paste the output of /getfull here
+```
+
+**Playfield info:**
+
+```
+Copy/paste the output of Shift+F6 here
+```
+----
+
+ 
